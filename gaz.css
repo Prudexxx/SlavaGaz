@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+
+body {
+    margin: 0px 0px;
+}
+
+.gazBox{
+    
+}
+
+h3{
+    margin: 0 7%;
+    
+    padding: 2%;
+    line-height: 150%;
+}
+
+hr {
+    height: 4px;
+    background-color:hsl(56, 100%, 53%);
+    border: none;
+    width: 60%;
+}
+p{
+    line-height: 150%;
+    margin:  7% 7%;
+    padding: 2%;
+}
+
+.shapkaGaz {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url(black-frame-1488155027tDi.jpg) ;
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;   
+  
+}
+
+.shapkaGaz1 {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+button{
+    background-color: hsl(56, 100%, 53%);
+    border: none;
+    font-size: 20px;
+    padding: 15px;
+    margin-bottom: 8%;
+}
+button:hover { 
+    background-color: hsl(59, 100%, 49%);
+    color: aliceblue;
+}
+.box {
+margin: 7% 7%;
+ }
+ 
+ p,h3{
+    text-align: center;
+ }
+
+ .foto {
+    display: flex;
+    margin: 7% 10%;
+    justify-content: space-around;
+ }
+
+ .shag1 {
+    padding-left:5%;
+
+ }
+
+ .container {
+    display: flex;
+    align-items: center;
+  }
+  
+  img {
+    max-width: 50%;
+  }
+  
+  .text {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+  }
+
+  
+  .otrabBozrazen {
+    text-align: center;
+  }
+
+  .img{
+    text-align: center;
+    margin-bottom: 2%;
+  }
+
